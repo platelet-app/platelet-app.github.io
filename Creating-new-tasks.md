@@ -6,11 +6,10 @@ A new task can be created and added to the dashboard, ready to be assigned to a 
 
 Look for the CREATE NEW button at the top right of the dashboard.
 
-![Create button](https://user-images.githubusercontent.com/32309223/220462512-2e17027e-7039-40c9-8f83-52323557e6ec.png)
-
+![Create Button Deksktop](images%2Fcreate_button.png)
 If you are on mobile, the button will instead be near the bottom of the screen.
 
-![Create button mobile](https://user-images.githubusercontent.com/32309223/220464316-ddd3ca32-332d-49dc-808b-105ebe2f63e2.png)
+![Create Button Mobile](images%2Fcreate_button_mobile.png)
 
 **This button will not be visible unless you are on the COORDINATOR or ALL role view.**
 
@@ -20,7 +19,7 @@ The CREATE NEW button will open a step by step process to adding a task, first a
 
 There are some navigation controls to take you through the task creation process.
 
-![Navigating create task](https://user-images.githubusercontent.com/32309223/220528140-b4be429d-b251-4766-b3f4-741d6043e217.png)
+![Navigating a New Task](images%2Fnavigating-create-task.png)
 
 You can switch quickly between the different steps using the tabs at the top.
 
