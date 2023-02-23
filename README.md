@@ -1,3 +1,3 @@
-# Headline
+# Documentation for the platelet project.
 
-> An awesome project.
+Search or navigate topics through the sidebar.
