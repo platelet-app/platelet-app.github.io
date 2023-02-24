@@ -45,3 +45,17 @@ You can search through the directory of locations for the establishment. If it i
 Once the establishment is selected, there is a toggle **Same as pick-up?**. When selected, the pick-up location will be set to the establishment on the next view.
 
 ***Same as pick-up?** will not be visible when the establishment is set through the **NOT LISTED?** button.*
+
+# Setting the pick-up and delivery
+
+Here you can enter:
+
+- The pick-up location
+- The delivery location
+- Contact details for locations or recipients
+
+You can search the directory for locations, or enter an address manually with the **NOT LISTED?** button.
+
+The address can be edited
+
+![Locations](images%2Fguided_locations.png)
