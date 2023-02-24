@@ -46,16 +46,42 @@ Once the establishment is selected, there is a toggle **Same as pick-up?**. When
 
 ***Same as pick-up?** will not be visible when the establishment is set through the **NOT LISTED?** button.*
 
-# Setting the pick-up and delivery
+## Setting the pick-up and delivery
 
 Here you can enter:
 
-- The pick-up location
-- The delivery location
-- Contact details for locations or recipients
+- The pick-up location.
+- The delivery location.
+- Contact details for locations or recipients.
 
 You can search the directory for locations, or enter an address manually with the **NOT LISTED?** button.
 
-The address can be edited
-
 ![Locations](images%2Fguided_locations.png)
+
+When a location is set, it can be edited with the *pencil* icon, which will pop up a form.
+
+A location can be cleared by clicking the red **CLEAR** button.
+
+You can see more details of the address and contact details by clicking **Expand to see more**.
+
+## Adding items
+
+Here you can add items to the inventory:
+
+- The type of item.
+- The count.
+- The unit.
+
+![Items](images%2Fguided_items.png)
+
+## Notes and priority
+
+Here you can add any notes, and set the priority.
+
+![Notes and priority](images%2Fguided_notes_priority.png)
+
+The visibility of the notes controls who can see them. If you select **ONLY ME** then only yourself will be able to see the notes. **EVERYONE** means that anyone can view the notes.
+
+Adding notes created a comment on the task.
+
+There are three priority options **LOW**, **MEDIUM** and **HIGH**.
