@@ -74,6 +74,18 @@ Here you can add items to the inventory:
 
 ![Items](images%2Fguided_items.png)
 
+You can use the category chips to find an item quickly or click **More** to see everything.
+
+Press the **+** icon to add an item.
+
+An item that is added to the inventory will be at the top of the list. More controls will appear to change the unit, increment or decrement the count, or remove the item.
+
+Click the **Compass** icon to change the unit. The available units are: **NONE**, **LITER**, **MILLILITER**, **GRAM**, **ITEM** or **BOX**.
+
+A **-** icon, number, and **+** icon controls the count.
+
+The **X** icon lets you remove an item.
+
 ## Notes and priority
 
 Here you can add any notes, and set the priority.

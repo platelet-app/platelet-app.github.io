@@ -1,6 +1,6 @@
 # The Task Overview
 
-Tap or click on a card on the [Dashboard](Using-the-dashboard.md) to view see an overview of the task.
+Tap or click on a card on the [Dashboard](Using-the-dashboard.md) to see an overview of the task.
 
 From here you can view all details that you entered during the [task creation](Creating-new-tasks.md) process.
 
@@ -10,3 +10,103 @@ You can:
 * Assign users.
 * Add comments.
 * Mark the task as **PICKED UP**, **DELIVERED**, **CANCELLED**, **REJECTED** or **RIDER HOME**.
+
+*Some details can only be edited by coordinators assigned to the task, or admins.*
+
+## Assigning Users
+
+The assign user panel sits at the top right of the sidebar.
+
+You can:
+
+* See assigned users.
+* Remove assigned users.
+* Assign riders and coordinators.
+* Select from recently assigned users.
+
+You must select the role you wish to assign a user with the select chips.
+
+The Search text box will let you search all users on the system that match the currently selected role.
+
+The recently assigned users will appear as chips depending on the currently selected role, up to a maximum of five users.
+
+If the task status is **NEW**, assigning a rider will change the status to **ACTIVE**.
+
+## Editing Task Details
+
+The top left panel summarises details of the task.
+
+You can:
+
+* Change the time of call.
+* Change the establishment.
+* Edit the caller contact information.
+* Change the priority.
+* Change the rider role.
+
+With exception to the priority, you must click the Edit *pencil* icon to make changes.
+
+Clicking the Edit icon for the time of call, establishment, or rider role will bring up a dialog.
+
+Caller details are edited inline. After clicking the Edit icon, the text fields will become highlighted. Click on the highlighted fields to make changes and press enter to finish.
+
+## Actions
+
+The Actions panel sits under the Task Details panels.
+
+You can:
+
+* Mark the task as **PICKED UP**, **DELIVERED**, **CANCELLED**, **REJECTED** or **RIDER HOME**.
+* Edit the times of **PICKED UP**, **DELIVERED**, **CANCELLED**, **REJECTED** or **RIDER HOME**.
+* Add sender name for **PICKED UP** and recipient name for **DELIVERED**.
+* Unset any times that are set.
+
+*You will not be able to set the **PICKED UP** time before a rider is assigned.*
+
+To update the status, click the checkbox next to action you'd like to update.
+
+A dialog will pop up with the current time pre-populated. You can change the time by typing into the text box or clicking the calender icon.
+
+If setting **PICKED UP**, or **DELIVERED**, a name entry field for sender or recipient will show. This field is optional.
+
+If an action is already set and you'd like to make changes, click the Edit *pencil* icon.
+
+If an action is already set and you'd like to clear it, click the checkbox.
+
+*Actions can only be set by riders or coordinators assigned to the task, or admins.*
+
+## Collect from and Deliver to
+
+The collect from and deliver to panels show location information.
+
+You can:
+
+* Set the location from the directory.
+* Clear the location.
+* Edit the location.
+
+You can edit the location by clicking the Edit *pencil* icon.
+
+If no location is set, the panel will be in edit mode by default.
+
+In edit mode you can replace or set the current location from the directory using the search text field.
+
+You can also change any field by clicking on it and typing into the text field. Hit enter to finish. Fields will be highlighted when they can be edited.
+
+To clear the location entirely, click the red **CLEAR** button. *Currently you must have an internet connection to clear a location.*
+
+Some fields are hidden by default. Click **Expand to see more** to see all fields.
+
+## Inventory
+
+The inventory panel shows items to be picked up.
+
+You can:
+
+* Add or remove items.
+* Increment or decrement the count.
+* Change the unit.
+
+You can edit the inventory by clicking the Edit *pencil* icon.
+
+For a description of the inventory controls, see [task creation](Creating-new-tasks.md) and *Adding Items*.
