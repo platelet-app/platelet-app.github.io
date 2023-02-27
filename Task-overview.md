@@ -4,18 +4,21 @@ Tap or click on a card on the [Dashboard](Using-the-dashboard.md) to see an over
 
 From here you can view all details that you entered during the [task creation](Creating-new-tasks.md) process.
 
+
+![Task Overview](images%2Ftask_overview.png)
+
 You can:
 
 * Edit details.
 * Assign users.
 * Add comments.
-* Mark the task as **PICKED UP**, **DELIVERED**, **CANCELLED**, **REJECTED** or **RIDER HOME**.
+* Change the status.
 
 *Some details can only be edited by coordinators assigned to the task, or admins.*
 
 ## Assigning Users
 
-The assign user panel sits at the top right of the sidebar.
+The assign user panel sits at the top right in the sidebar.
 
 You can:
 
@@ -23,6 +26,8 @@ You can:
 * Remove assigned users.
 * Assign riders and coordinators.
 * Select from recently assigned users.
+
+![Assignees](images%2Ftask_overview_assignees.png)
 
 You must select the role you wish to assign a user with the select chips.
 
