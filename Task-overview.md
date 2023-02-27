@@ -117,3 +117,19 @@ You can:
 You can edit the inventory by clicking the Edit *pencil* icon.
 
 For a description of the inventory controls, see [task creation](Creating-new-tasks.md) and *Adding Items*.
+
+## Status bar
+
+At the top of the overview is the status bar.
+
+You can:
+
+* Close the task overview and return to the dashboard.
+* See the status of the task.
+* Copy the task to clipboard.
+
+**Copy to clipboard** will save the key details of the task to your system clipboard.
+
+*On iOS devices, a dialog will show where you can select text from.*
+
+

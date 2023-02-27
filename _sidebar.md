@@ -2,3 +2,4 @@
 * [Dashboard](Using-the-dashboard.md)
 * [Creating Tasks](Creating-new-tasks.md)
 * [Task Overview](Task-overview.md)
+* [Selection Mode](Using-selection-mode.md)
