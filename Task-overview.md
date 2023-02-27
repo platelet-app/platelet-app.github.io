@@ -49,6 +49,8 @@ You can:
 * Change the priority.
 * Change the rider role.
 
+![Details](images%2Ftask_overview_details.png)
+
 With exception to the priority, you must click the Edit *pencil* icon to make changes.
 
 Clicking the Edit icon for the time of call, establishment, or rider role will bring up a dialog.
