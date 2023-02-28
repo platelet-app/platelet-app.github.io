@@ -141,3 +141,21 @@ You can:
 *On iOS devices, a dialog will show for you to select text from.*
 
 *On mobile the **CLOSE** button will be a back arrow.*
+
+## Comments
+
+In the sidebar is the comments section.
+
+You can:
+
+* Write new comments.
+* Edit or delete your own comments.
+* Write notes only for yourself.
+
+![Comments](images%2Ftask_overview_comments.png)
+
+When **EVERYONE** is selected, the comment is visible to anyone who has access to the task. Use this for sending instructions to the rider, cancellation or rejected reasons, or anything else other users need to know about.
+
+**ONLY ME** will hide that comment from other users. Use this for any notes you want to make, that aren't relevant to other users.
+
+*Hidden comments are filtered on the client side and shouldn't be used for writing private content or secrets.*
