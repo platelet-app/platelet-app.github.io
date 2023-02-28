@@ -54,7 +54,7 @@ The available actions are:
 
 When an action is selected, a dialog will appear.
 
-For information about the controls when assigning users, refer to **Assigning Users** in [Task Overview](task-overview.md).
+For information about the controls when assigning users, refer to **Assigning Users** in [Task Overview](Task-overview.md).
 
 Other controls for updating the **Status** of selected tasks let you change the time.
 

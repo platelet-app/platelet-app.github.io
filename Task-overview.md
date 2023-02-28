@@ -68,6 +68,8 @@ You can:
 * Add sender name for **PICKED UP** and recipient name for **DELIVERED**.
 * Unset any times that are set.
 
+![Actions](images%2Ftask_overview_actions.png)
+
 *You will not be able to set the **PICKED UP** time before a rider is assigned.*
 
 To update the status, click the checkbox next to action you'd like to update.
@@ -92,6 +94,8 @@ You can:
 * Clear the location.
 * Edit the location.
 
+![Locations](images%2Ftask_overview_location.png)
+
 You can edit the location by clicking the Edit *pencil* icon.
 
 If no location is set, the panel will be in edit mode by default.
@@ -100,7 +104,9 @@ In edit mode you can replace or set the current location from the directory usin
 
 You can also change any field by clicking on it and typing into the text field. Hit enter to finish. Fields will be highlighted when they can be edited.
 
-To clear the location entirely, click the red **CLEAR** button. *Currently you must have an internet connection to clear a location.*
+To clear the location entirely, click the red **CLEAR** button.
+
+*Currently you must have an internet connection to clear a location.*
 
 Some fields are hidden by default. Click **Expand to see more** to see all fields.
 
@@ -128,8 +134,10 @@ You can:
 * See the status of the task.
 * Copy the task to clipboard.
 
+![Status bar](images%2Ftask_overview_status.png)
+
 **Copy to clipboard** will save the key details of the task to your system clipboard.
 
-*On iOS devices, a dialog will show where you can select text from.*
+*On iOS devices, a dialog will show for you to select text from.*
 
-
+*On mobile the **CLOSE** button will be a back arrow.*
