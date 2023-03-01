@@ -12,6 +12,8 @@ You can:
 * Select all tasks in a column.
 * Select all tasks visible on the dashboard.
 
+![Selecting a task](images%2Fselection_mode_card.png)
+
 To select an individual task, hover your mouse over the card. The card will highlight and multiple controls will appear.
 
 Click the checkbox on the bottom left of the card to select it. The highlight will change colour.
@@ -36,7 +38,9 @@ If you click the checkbox again, it will deselect all tasks.
 
 Clicking the checkbox when only some tasks are selected will also deselect all of them.
 
-*The **Select all** checbox control is not available on mobile. Use the column select checkbox or long press control instead.*
+![Selection controls](images%2Fselection_mode_dashboard.png)
+
+*The **Select all** checkbox control is not available on mobile. Use the column select checkbox or long press control instead.*
 
 ## Actions
 
