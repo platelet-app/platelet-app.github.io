@@ -58,10 +58,35 @@ The available actions are:
 
 When an action is selected, a dialog will appear.
 
+### Assigning users
+
 For information about the controls when assigning users, refer to **Assigning Users** in [Task Overview](Task-overview.md).
 
-Other controls for updating the **Status** of selected tasks let you change the time.
+### Changing status
+
+Controls for changing the **Status** of selected tasks let you set the time, and sometimes has optional fields.
+
+![Selection dialog](images%2Fselection_mode_delivery.png)
 
 When marking a task as **PICKED UP** or **DELIVERED** there will be a text field for sender or recipient name.
 
-When marking a task as **CANCELLED** or **REJECTED** a text multi line text field will let you enter a reason. The contents of this field if filled will add a comment onto the task.
+When marking a task as **CANCELLED** or **REJECTED** a multi line text field will let you enter a reason. The contents of this field will be posted as a comment.
+
+### Duplicating tasks
+
+You can duplicate any tasks that are not in the **COMPLETED** dashboard tab.
+
+![Duplicate dialog](images%2Fselection_mode_duplicate.png)
+
+There are two or three additional options depending on whether you are using the **ALL** or **COORDINATOR** dashboard view.
+
+When using the **COORDINATOR** dashboard view, you can:
+
+* Copy any additional assignees (you will always be assigned as a coordinator automatically).
+* Copy any of your own comments, or private comments.
+
+Any other information will be copied, except for **PICKED UP**, **DELIVERED** time and name, or **RIDER HOME** time.
+
+When using the **ALL** dashboard view, there will be an additional option to not assign yourself to the duplicated task. By default this option will be checked.
+
+![Duplicate assign me](images%2fselection_mode_duplicate_assign_me.png)
